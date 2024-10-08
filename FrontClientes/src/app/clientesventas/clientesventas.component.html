@@ -1,0 +1,19 @@
+
+
+
+
+ddwe
+<button type="button" class="btn btn-info btn-lg" 
+(click)="abreModal(confirma)"
+>Open Modal</button>
+
+
+<ng-template  #confirma let-modal>
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Agregar venta</h4>
+        <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+          <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+ 
+</ng-template>
