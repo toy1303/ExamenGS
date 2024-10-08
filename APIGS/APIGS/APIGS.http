@@ -1,0 +1,6 @@
+@APIGS_HostAddress = http://localhost:5222
+
+GET {{APIGS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

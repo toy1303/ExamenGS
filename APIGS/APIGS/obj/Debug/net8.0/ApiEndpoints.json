@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "APIGS.Controllers.VentasClienteController",
+    "Method": "Agregaventa",
+    "RelativePath": "Agregaventa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "venta",
+        "Type": "APIGS.Entrada.Venta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIGS.Controllers.VentasClienteController",
+    "Method": "DetalleVenta",
+    "RelativePath": "DetalleVenta/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIGS.Controllers.ClienteController",
+    "Method": "VentasCliente",
+    "RelativePath": "ObtieneclientesActivos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIGS.Controllers.ProductoController",
+    "Method": "ObtieneProductos",
+    "RelativePath": "ObtieneProductos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIGS.Controllers.VentasClienteController",
+    "Method": "Obtieneventas",
+    "RelativePath": "Obtieneventas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

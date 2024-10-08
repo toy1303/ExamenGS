@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\controllers\\ventasclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\controllers\\ventasclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\helpers\\conectionoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\helpers\\conectionoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\modelo\\detalleventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\modelo\\detalleventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\entrada\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\entrada\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\modelo\\ventascliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\modelo\\ventascliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|c:\\users\\toy\\documents\\examenggs\\apigs\\apigs\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7D454-20F7-4BC4-A960-E62F78F26763}|APIGS\\APIGS.csproj|solutionrelative:apigs\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeTalleVentas.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Modelo\\DeTalleVentas.cs",
+              "RelativeDocumentMoniker": "APIGS\\Modelo\\DeTalleVentas.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Modelo\\DeTalleVentas.cs",
+              "RelativeToolTip": "APIGS\\Modelo\\DeTalleVentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:02:56.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConectionOracle.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Helpers\\ConectionOracle.cs",
+              "RelativeDocumentMoniker": "APIGS\\Helpers\\ConectionOracle.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Helpers\\ConectionOracle.cs",
+              "RelativeToolTip": "APIGS\\Helpers\\ConectionOracle.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:44:24.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Entrada\\Venta.cs",
+              "RelativeDocumentMoniker": "APIGS\\Entrada\\Venta.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Entrada\\Venta.cs",
+              "RelativeToolTip": "APIGS\\Entrada\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:11:54.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "APIGS\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "APIGS\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:52:28.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Controllers\\VentasClienteController.cs",
+              "RelativeDocumentMoniker": "APIGS\\Controllers\\VentasClienteController.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Controllers\\VentasClienteController.cs",
+              "RelativeToolTip": "APIGS\\Controllers\\VentasClienteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:12:25.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentasCliente.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Modelo\\VentasCliente.cs",
+              "RelativeDocumentMoniker": "APIGS\\Modelo\\VentasCliente.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Modelo\\VentasCliente.cs",
+              "RelativeToolTip": "APIGS\\Modelo\\VentasCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:11:45.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "APIGS\\Modelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Modelo\\Producto.cs",
+              "RelativeToolTip": "APIGS\\Modelo\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:07:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "APIGS\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "APIGS\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:55:38.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Program.cs",
+              "RelativeDocumentMoniker": "APIGS\\Program.cs",
+              "ToolTip": "C:\\Users\\TOY\\Documents\\ExamenGGS\\APIGS\\APIGS\\Program.cs",
+              "RelativeToolTip": "APIGS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:53:49.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
