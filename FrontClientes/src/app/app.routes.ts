@@ -1,9 +1,16 @@
-import { Routes } from '@angular/router';
-import {ClientesventasComponent} from './clientesventas/clientesventas.component'
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes, PreloadAllModules } from '@angular/router';
+import { PruebatesComponent } from './pruebates/pruebates.component';
 
 export const routes: Routes = [
     {
         path:'',
-        component:ClientesventasComponent
-    }
+        component : PruebatesComponent,
+    },
 ];
+@NgModule({
+    imports: [RouterModule.forRoot(routes, { useHash: true })],
+    exports: [RouterModule]
+  })
+
+  export class AppRoutingModule { }
